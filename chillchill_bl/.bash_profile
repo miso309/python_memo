@@ -1,1 +1,0 @@
-NOTION_TOKEN="secret_iL1ykEgk6vD3b7cK4VVQ3cEGKqVjYmkOjKl2jQJ2FEr"
